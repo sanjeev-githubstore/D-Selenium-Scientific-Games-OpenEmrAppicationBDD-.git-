@@ -1,0 +1,6 @@
+com\sg\stepdefinitions\LoginStepDefinitions.class
+com\sg\pages\DashboardPage.class
+com\sg\runner\RunnerTest.class
+com\sg\pages\LoginPage.class
+com\sg\stepdefinitions\PatientStepDefinitions.class
+com\sg\base\WebDriverWrapper.class
